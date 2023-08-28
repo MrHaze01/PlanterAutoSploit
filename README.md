@@ -1,0 +1,2 @@
+# PlanterAutoSploit
+WordPress Auto Exploit 
